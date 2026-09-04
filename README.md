@@ -991,38 +991,6 @@ auditable, maintainable, secure, and hardware-aware**.
 
 ---
 
-## 📣 Suggested LinkedIn description
-
-**Embedded Safety Engineer — A Smart Claude Code Skill for Embedded Systems**
-
-I'm building an open, modular engineering Skill for Claude Code focused on embedded
-firmware and hardware-aware software engineering.
-
-The project is designed to help AI-assisted development reason about the things that
-matter in real embedded systems—not just whether the code compiles.
-
-It currently covers C, C++, Rust, Assembly, Verilog, SystemVerilog and VHDL, with
-guidance for AVR, ARM Cortex-M, STM32, ESP32, RP2040 and FPGA development.
-
-The Skill focuses on:
-
-🔹 ISR and interrupt safety  
-🔹 RTOS and concurrency  
-🔹 DMA and cache coherency  
-🔹 Real-time timing and latency  
-🔹 Memory safety  
-🔹 Watchdogs and fail-safe behavior  
-🔹 Secure Boot and firmware updates  
-🔹 Protocol and input validation  
-🔹 Debug-port security  
-🔹 Fault injection and side-channel considerations  
-🔹 Static analysis and verification  
-🔹 Hardware-aware anti-hallucination rules  
-
-The long-term vision is to create an **Embedded Engineering Intelligence Layer** that
-helps AI coding agents produce cleaner, safer, more maintainable and security-conscious
-embedded software.
-
 Current release: **v0.1.0**
 
 #EmbeddedSystems #Firmware #STM32 #Microcontrollers #RTOS #EmbeddedSecurity
