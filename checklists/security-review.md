@@ -1,0 +1,11 @@
+# Security Review Checklist
+- [ ] Attack surface mapped
+- [ ] External input validation reviewed
+- [ ] Authentication/authorization reviewed
+- [ ] Replay/downgrade considered
+- [ ] Firmware authenticity/integrity reviewed
+- [ ] Secrets protected
+- [ ] Debug interfaces reviewed
+- [ ] Fault injection considered where relevant
+- [ ] Side channels considered where relevant
+- [ ] Secure failure/recovery reviewed

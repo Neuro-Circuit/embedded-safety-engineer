@@ -1,0 +1,12 @@
+# Post-Code Checklist
+- [ ] Build passes
+- [ ] Warnings reviewed
+- [ ] Memory safety reviewed
+- [ ] ISR reviewed
+- [ ] Concurrency reviewed
+- [ ] DMA/cache reviewed
+- [ ] Timing reviewed
+- [ ] Error paths reviewed
+- [ ] Security reviewed where relevant
+- [ ] Tests/checks executed
+- [ ] Assumptions documented
