@@ -990,8 +990,3 @@ The objective is to make AI-assisted embedded development **more predictable,
 auditable, maintainable, secure, and hardware-aware**.
 
 ---
-
-Current release: **v0.1.0**
-
-#EmbeddedSystems #Firmware #STM32 #Microcontrollers #RTOS #EmbeddedSecurity
-#CyberSecurity #FPGA #Verilog #CProgramming #CPP #Rust #ClaudeCode #AI #IoT
